@@ -1,4 +1,4 @@
-# Aprendendo Arquitetura de Computadores com Circuitos Digitais
+# Simulações de Redes com Cisco Packet Tracer
 
 Este repositório contém arquivos de simulações de redes desenvolvidas no software **Cisco Packet Tracer** durante as aulas na faculdade. As atividades incluem configurações práticas de redes locais e exploram conceitos importantes como VLANs, roteamento, parâmetros IP, entre outros.
 
